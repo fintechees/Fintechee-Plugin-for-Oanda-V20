@@ -7,8 +7,9 @@ This Javascript library is supposed to run on a browser, but it's based on Nodej
 
 1. npm i @oanda/v20
 2. npm i -g browserify
-3. browserify oanda_v20_simplified.js -o oanda_wrapper.js
-4. import the generated JS into any WEB page that you want to engage with Oanda RESTful API, just like
+3. copy the "lib" folder to @oanda
+4. browserify oanda_v20_simplified.js -o oanda_wrapper.js
+5. import the generated JS into any WEB page that you want to engage with Oanda RESTful API, just like
 <script src="oanda_wrapper.js"></script>
 
 We have made a loader to integrate with it as an example:
