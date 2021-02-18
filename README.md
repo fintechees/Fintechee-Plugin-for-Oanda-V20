@@ -17,3 +17,7 @@ We have made a loader to integrate with it as an example:
 https://github.com/fintechee/Fintechee-Plugin-for-DATA-API/blob/main/oanda_loader.js
 
 https://www.fintechee.com is required to run this loader.
+
+## License
+
+MIT
