@@ -12,6 +12,11 @@ This Javascript library is supposed to run on a browser, but it's based on Nodej
 5. import the generated JS into any WEB page that you want to engage with Oanda RESTful API, just like
 <script src="oanda_wrapper.js"></script>
 
+## Line 660 in pricing.js needs to be modified.
+
+Wrong:   streamChunkHandler(new Price(msg));
+Correct: streamChunkHandler(new pricing_common.Price(msg));
+
 We have made a loader to integrate with it as an example:
 
 https://github.com/fintechee/Fintechee-Plugin-for-DATA-API/blob/main/oanda_loader.js
