@@ -13,7 +13,7 @@ This Javascript library is supposed to run on a browser, but it's based on Nodej
 
 <script src="oanda_wrapper.js"></script>
 
-## Line 660 in pricing.js needs to be modified.
+### Line 660 in pricing.js(@oanda) needs to be modified before you browserify oanda_v20_simplified.js.
 
 - Wrong:   streamChunkHandler(new Price(msg));
 - Correct: streamChunkHandler(new pricing_common.Price(msg));
