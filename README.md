@@ -10,12 +10,13 @@ This Javascript library is supposed to run on a browser, but it's based on Nodej
 3. copy the "lib" folder to @oanda
 4. browserify oanda_v20_simplified.js -o oanda_wrapper.js
 5. import the generated JS into any WEB page that you want to engage with Oanda RESTful API, just like
+
 <script src="oanda_wrapper.js"></script>
 
 ## Line 660 in pricing.js needs to be modified.
 
-Wrong:   streamChunkHandler(new Price(msg));
-Correct: streamChunkHandler(new pricing_common.Price(msg));
+- Wrong:   streamChunkHandler(new Price(msg));
+- Correct: streamChunkHandler(new pricing_common.Price(msg));
 
 We have made a loader to integrate with it as an example:
 
