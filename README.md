@@ -18,6 +18,8 @@ This Javascript library is supposed to run on a browser, but it's based on Nodej
 - Wrong:   streamChunkHandler(new Price(msg));
 - Correct: streamChunkHandler(new pricing_common.Price(msg));
 
+## Example
+
 We have made a loader to integrate with it as an example:
 
 https://github.com/fintechee/Fintechee-Plugin-for-DATA-API/blob/main/oanda_loader.js
