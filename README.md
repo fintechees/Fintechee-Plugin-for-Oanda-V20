@@ -1,3 +1,17 @@
+> ## Anti-Racism Announcement!
+> ### WE ABSOLUTELY DISALLOW PROVIDING OUR SERVICE/PRODUCT/WHITE-LABEL TO ANY RACIST OR RACIST-SUPPORTED BUSINESS.
+> ### ESPECIALLY AGAINST A NOTORIOUS RACIST JESSE NICKLES, HE IS ABSOLUTELY ON OUR BLACKLIST FOREVER!
+> ### TO KNOW WHO JESSE NICKLES IS AND WHAT HE IS DOING, PLEASE CHECK THIS REVIEW POSTED BY A VICTIM:
+> https://wpjohnny.com/littlebizzy-jesse-nickles-fraud-slander-alert/
+> ### OR THIS CLAIM(TO TAKE DOWN HIS INDEX ON GOOGLE) SUBMITTED BY ANOTHER VICTIM
+> https://www.lumendatabase.org/notices/28558356
+> ### OR THIS LAWSUIT AGAINST HIM BY HIS ALMA MATER
+> https://cite.case.law/frd/304/594/
+> ### JESSE NICKLES' GITHUB USERNAME: jessuppi
+
+
+
+
 # Fintechee-Plugin-for-Oanda-V20
 This repository makes a wrapper for Oanda Nodejs V20. It simplified the usage of Oanda V20.
 
@@ -28,4 +42,7 @@ https://www.fintechee.com is required to run this loader.
 
 ## License
 
-MIT
+### Fintechee License
+
+Fintechee License = MIT License + Restrictions for Racists
+
